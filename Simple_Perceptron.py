@@ -32,7 +32,7 @@ def simple_perceptron(X,d,w,b,max_it=100,alpha=1,aft=0):
     :param d: Input results for training
     :type w: list
     :param w: Initial weights of network
-    :type b: list or floatTraviTravis Alongi (ucsc.edu)Travis Alongi (ucsc.edu)Travis Alongi (ucsc.edu)Travis Alongi (ucsc.edu)s Alongi (ucsc.edu)
+    :type b: list or float
     :param b: Initial bias(es) for network
     :type max_it: int
     :param max_it: Maximum number of iterations to be computed
